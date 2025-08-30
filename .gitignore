@@ -138,6 +138,7 @@ celerybeat.pid
 .env
 .envrc
 .venv
+ml_project_env
 env/
 venv/
 ENV/
