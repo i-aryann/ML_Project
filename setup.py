@@ -23,5 +23,5 @@ description='This is an end to end ML Data Science project',
 author="Aryan Gupta",
 author_email="aryangupta.723@gmail.com",
 packages=find_packages(),
-install_requires=get_requirements('requirements.txt')
+install_requires=get_requirements('required_libraries.txt')
 )
